@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1784078441873,
+      "tag": "0000_vaultdrive_auth",
+      "breakpoints": true
+    }
+  ]
+}
